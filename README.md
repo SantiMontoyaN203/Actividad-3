@@ -1,0 +1,1 @@
+Para una visualización correcta de las imágenes dentro de la interfaz del ejercicio #2 de esta entrega, por favor descargar las imágenes .png y guardarlas dentro de la misma carpeta del archivo ejecutable (.py).
